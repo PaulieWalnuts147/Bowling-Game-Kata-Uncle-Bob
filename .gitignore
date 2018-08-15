@@ -1,0 +1,16 @@
+# Java
+
+out/
+build/
+
+# IntelliJ
+
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+# Gradle
+
+.gradle/
